@@ -2,7 +2,8 @@
 
 Fixes GoogleMaps on swift when using `use_frameworks!` and [CocoaPods](https://github.com/CocoaPods/CocoaPods)
 
-# How to use it
+How to use it
+=============
 
 Add the following line to your `Podfile`:
 
