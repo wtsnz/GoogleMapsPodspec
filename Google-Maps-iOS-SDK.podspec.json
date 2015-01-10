@@ -10,7 +10,7 @@
   },
   "authors": "Google Inc.",
   "source": {
-    "http": "http://localhost:8000/GoogleMaps-iOS-1.9.1.zip",
+    "http": "https://raw.githubusercontent.com/Reflejo/GoogleMapsPodspec/master/GoogleMaps-iOS-1.9.1.zip",
     "flatten": true
   },
   "platforms": {
