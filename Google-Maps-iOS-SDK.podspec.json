@@ -1,6 +1,6 @@
 {
   "name": "Google-Maps-iOS-SDK",
-  "version": "1.9.1",
+  "version": "1.9.2",
   "summary": "Google Maps SDK for iOS.",
   "description": "Use the Google Maps SDK for iOS to add interactive maps, and immersive Street View panoramas to your app.",
   "homepage": "https://developers.google.com/maps/documentation/ios/",
@@ -10,7 +10,7 @@
   },
   "authors": "Google Inc.",
   "source": {
-    "http": "https://raw.githubusercontent.com/Reflejo/GoogleMapsPodspec/master/GoogleMaps-iOS-1.9.1.zip",
+    "http": "https://raw.githubusercontent.com/Reflejo/GoogleMapsPodspec/master/GoogleMaps-iOS-1.9.2.zip",
     "flatten": true
   },
   "platforms": {
